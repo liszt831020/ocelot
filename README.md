@@ -1,2 +1,2 @@
-# ocelot-interview
+# ocelot
 interviewing project practice
